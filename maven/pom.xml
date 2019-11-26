@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <name>github-package-registry-parent</name>
-    <url>https://github.com/igabaydulin/gradle-github-package-registry-example</url>
+    <url>https://github.com/GamebreakingStudios/gradle-github-package-registry-example</url>
 
     <modules>
         <module>lib</module>
